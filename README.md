@@ -1,7 +1,7 @@
-# Starter Web Repo
+# 1st level header
 
-This repository is for showing how Git and GitHub work
+## 2nd level header
 
-## Purpose
+## anther 2nd level header
 
-Sample website with plenty of files for demos
+## deployment
